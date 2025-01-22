@@ -1,4 +1,4 @@
-# ModelagemPPEQ1019
+# Modelagem de Processos Industriais
 
 Este repositório contém os materiais utilizados na disciplina Modelagem de Processos Industriais (PPEQ1019), voltada para o estudo e aplicação de técnicas de modelagem matemática e computacional em processos químicos e industriais. Aqui, você encontrará desde conceitos teóricos até implementações práticas, utilizando ferramentas modernas para análise, simulação e otimização.
 
